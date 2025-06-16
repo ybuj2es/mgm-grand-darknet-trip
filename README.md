@@ -51,4 +51,6 @@ This guide is solely for educational and informational purposes. The content her
 
 
 
-Update:  06/13/2025 03-26 Fixed broken link, now active
+
+
+Update: url is live and clickable
