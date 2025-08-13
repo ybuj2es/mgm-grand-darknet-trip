@@ -77,4 +77,6 @@ This guide is solely for educational and informational purposes. The content her
 
 
 
-Update:  Monday 04 August 2025 Fixed broken url, now working
+
+
+Update:  13 August 404 fixes
