@@ -89,4 +89,6 @@ This guide is solely for educational and informational purposes. The content her
 
 
 
-Update:  09/18/2025
+
+
+Update:  01.10.2025 link is responsive and live
